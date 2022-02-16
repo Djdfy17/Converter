@@ -1,13 +1,25 @@
 body {
-    background:white;
+  background: white;
 }
 
-.valute{
-  font-size:120%;
+.valute {
+  font-size: 16px;
 }
-.Conve{
-  font-size:150%;
+
+.Conv h1 {
+  font-size: 32px;
+  text-align: center;
 }
-.convert{
-  font-size:60%;
+
+.vvedite-summu {
+  height: 30px;
+  padding-left: 40px;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.convert p {
+  padding-left: 40px;
+  font-size: 16px;
+  font-weight: bold;
 }
